@@ -2,6 +2,7 @@
     "success": true,
     "message": "The request is ok",
     "data": {
+        "live_url": true,
         "app_name": "Tovozo",
         "package_name": "com.m360ict.tovozo",
         "play_store_version": "1.0.14",
