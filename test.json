@@ -5,7 +5,7 @@
         "live_url": true,
         "app_name": "Tovozo",
         "package_name": "com.m360ict.tovozo",
-        "play_store_version": "1.0.15",
+        "play_store_version": "1.0.20",
         "app_store_version": "1.1.9",
         "microsoft_store_version": "",
         "force_update_android": true,
